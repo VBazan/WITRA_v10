@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WITRAv10", "WITRAv10\WITRAv10.vcproj", "{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Colibri600 (ARMV4I) = Debug|Colibri600 (ARMV4I)
+		Debug|SDK2wince7 (ARMv4I) = Debug|SDK2wince7 (ARMv4I)
+		Release|Colibri600 (ARMV4I) = Release|Colibri600 (ARMV4I)
+		Release|SDK2wince7 (ARMv4I) = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|Colibri600 (ARMV4I).ActiveCfg = Debug|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|Colibri600 (ARMV4I).Build.0 = Debug|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|Colibri600 (ARMV4I).Deploy.0 = Debug|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|SDK2wince7 (ARMv4I).ActiveCfg = Debug|SDK2wince7 (ARMv4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|SDK2wince7 (ARMv4I).Build.0 = Debug|SDK2wince7 (ARMv4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Debug|SDK2wince7 (ARMv4I).Deploy.0 = Debug|SDK2wince7 (ARMv4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|Colibri600 (ARMV4I).ActiveCfg = Release|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|Colibri600 (ARMV4I).Build.0 = Release|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|Colibri600 (ARMV4I).Deploy.0 = Release|Colibri600 (ARMV4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|SDK2wince7 (ARMv4I).ActiveCfg = Release|SDK2wince7 (ARMv4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|SDK2wince7 (ARMv4I).Build.0 = Release|SDK2wince7 (ARMv4I)
+		{662DD59D-3B39-4577-9B5A-05EA3FB4D7E4}.Release|SDK2wince7 (ARMv4I).Deploy.0 = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
